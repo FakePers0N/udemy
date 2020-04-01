@@ -1,0 +1,14 @@
+var first = 1;
+var second = 2;
+var result;
+
+function sum(arg1,arg2){
+    result = arg1 + arg2;    
+    return result;
+}
+
+sum(first, second);
+
+console.log(result);
+
+
